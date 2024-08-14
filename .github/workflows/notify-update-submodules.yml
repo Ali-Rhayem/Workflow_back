@@ -11,5 +11,5 @@ jobs:
       uses: peter-evans/repository-dispatch@v1
       with:
         token: ${{ secrets.PAT }}
-        repository: MohammadOsseily/Workflow_test
+        repository: Ali-Rhayem/Workflow_test
         event-type: update-submodules-event
