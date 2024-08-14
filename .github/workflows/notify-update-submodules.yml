@@ -1,6 +1,7 @@
-name: Notify Main Project
+name: Notify Update Submodules
 
-on: push
+on:
+  push:
 
 jobs:
   notify-main-project:
