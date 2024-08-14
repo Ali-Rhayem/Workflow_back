@@ -1,2 +1,2 @@
 <?php
-echo "test last";
+echo "test";
